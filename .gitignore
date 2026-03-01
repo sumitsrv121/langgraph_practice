@@ -9,3 +9,10 @@ wheels/
 # Virtual environments
 .venv/**
 .env
+
+# LangGraph
+langgraph.json
+
+src/3-debugging/__pycache__/*
+src/3-debugging/*.pyc
+src/3-debugging/.langgraph_api/
