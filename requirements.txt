@@ -10,3 +10,4 @@ wikipedia
 arxiv
 langchain-tavily
 langgraph-cli[inmem]
+faiss-cpu
